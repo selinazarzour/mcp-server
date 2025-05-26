@@ -1,0 +1,90 @@
+Research Topic,Number of Papers,Results,timestamp
+flowers,3,,2025-05-26 17:15:12.537596
+flowers,3,"'# Papers on Flowers
+
+Total papers: 5
+
+## TflosYOLO+TFSC: An Accurate and Robust Model for Estimating Flower Count and Flowering Period
+- **Paper ID**: 2501.15262v3
+- **Authors**: Qianxi Mi, Pengcheng Yuan, Chunlei Ma, Jiedan Chen, Mingzhe Yao
+- **Published**: 2025-01-25
+- **PDF URL**: [http://arxiv.org/pdf/2501.15262v3](http://arxiv.org/pdf/2501.15262v3)
+
+### Summary
+Tea flowers play a crucial role in taxonomic research and hybrid breeding for
+the tea plant. As traditional methods of observing tea flower traits are
+labor-intensive and inaccurate, we propose TflosYOLO and TFSC model for tea
+flowering quantifying, which enable estimation of flower count and flowering
+period. In this study, a highly representative and diverse dataset was
+constructed by collecting flower images from 29 tea accessions in 2 years.
+Based on this dataset, the TflosYOLO model was bui...
+
+---
+
+## Flowers in graph-like spaces
+- **Paper ID**: 2312.13825v1
+- **Authors**: Ann-Kathrin Elm, Hendrik Heine
+- **Published**: 2023-12-21
+- **PDF URL**: [http://arxiv.org/pdf/2312.13825v1](http://arxiv.org/pdf/2312.13825v1)
+
+### Summary
+One perspective on tree decompositions is that they display (low-order)
+separations of the underlying graph or matroid. The separations displayed by a
+tree decomposition are necessarily nested. In 2013, Clark and Whittle proved
+the existence of tree decompositions with flowers added in which, up to a
+natural equivalence, all low-order separations are displayed. An important step
+in that proof is to show that flowers can be extended to maximal flowers. In
+this paper we generalise the notion of a ...
+
+---
+
+## Multi-objective Flower Algorithm for Optimization
+- **Paper ID**: 1404.0695v1
+- **Authors**: Xin-She Yang, M. Karamanoglu, Xingshi He
+- **Published**: 2014-04-02
+- **PDF URL**: [http://arxiv.org/pdf/1404.0695v1](http://arxiv.org/pdf/1404.0695v1)
+
+### Summary
+Flower pollination algorithm is a new nature-inspired algorithm, based on the
+characteristics of flowering plants. In this paper, we extend this flower
+algorithm to solve multi-objective optimization problems in engineering. By
+using the weighted sum method with random weights, we show that the proposed
+multi-objective flower algorithm can accurately find the Pareto fronts for a
+set of test functions. We then solve a bi-objective disc brake design problem,
+which indeed converges quickly....
+
+---
+
+## Resistance distance, Kirchhoff index, and Kemeny's constant in flower graphs
+- **Paper ID**: 2007.03103v1
+- **Authors**: Nolan Faught, Mark Kempton, Adam Knudson
+- **Published**: 2020-07-06
+- **PDF URL**: [http://arxiv.org/pdf/2007.03103v1](http://arxiv.org/pdf/2007.03103v1)
+
+### Summary
+We obtain a general formula for the resistance distance (or effective
+resistance) between any pair of nodes in a general family of graphs which we
+call flower graphs. Flower graphs are obtained from identifying nodes of
+multiple copies of a given base graph in a cyclic way. We apply our general
+formula to two specific families of flower graphs, where the base graph is
+either a complete graph or a cycle. We also obtain bounds on the Kirchhoff
+index and Kemeny's constant of general flower graphs u...
+
+---
+
+## Trees with flowers: A catalog of integer partition and integer composition trees with their asymptotic analysis
+- **Paper ID**: 2402.16111v2
+- **Authors**: Ricardo Gómez Aíza
+- **Published**: 2024-02-25
+- **PDF URL**: [http://arxiv.org/pdf/2402.16111v2](http://arxiv.org/pdf/2402.16111v2)
+
+### Summary
+We present families of combinatorial classes described as trees with nodes
+that can carry one of two types of ""flowers"": integer partitions or integer
+compositions. Two parameters on the flowers of trees will be considered: the
+number of ""petals"" in all the flowers (petals' weight) and the number of edges
+in the petals of all the flowers (flowers' weight). We give explicit
+expressions of their generating functions and deduce general formulas for the
+asymptotic growth of their coefficients and th...
+
+---",2025-05-26 17:15:22.079012

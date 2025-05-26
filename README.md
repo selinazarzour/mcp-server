@@ -1,3 +1,9 @@
+---
+title: MCP_Research_Server
+app_file: research_server.py
+sdk: gradio
+sdk_version: 5.31.0
+---
 # 🧠 FastMCP SSE Server – Research Paper Agent
 
 This project is a deployable **MCP-compatible remote server** built using the `FastMCP` framework. It exposes tools and resources for:
