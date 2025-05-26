@@ -23,6 +23,9 @@ It is designed to work with **Claude, GPT, or any MCP client** that supports `SS
 
 To test if it’s working, simply visit the link above — you’ll see a plain text confirmation.
 
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/90fc6c84-a7af-4f73-9e7e-fce36f7234e5" />
+
+
 ---
 
 ## 🚀 Features
