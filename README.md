@@ -111,6 +111,8 @@ In the web UI:
 
 You’ll now be able to call the tools and test them live using Claude or your own chatbot.
 
+![Uploading ui.png…]()
+
 ---
 
 ## 📚 Credits
