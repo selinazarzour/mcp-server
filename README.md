@@ -1,6 +1,6 @@
 ---
 title: MCP_Research_Server
-app_file: research_server.py
+app_file: main.py
 sdk: gradio
 sdk_version: 5.31.0
 ---
@@ -42,7 +42,7 @@ To test if it’s working, simply visit the link above — you’ll see a plain 
 
 ```bash
 .
-├── research_server.py        # Main FastMCP server
+├── main.py        # Main FastMCP server
 ├── Dockerfile                # For deployment on Render
 ├── pyproject.toml            # Python project setup (required by uv)
 ├── uv.lock                   # Dependency lock file (required by uv)
@@ -67,7 +67,7 @@ cd mcp-sse-server
 
 # Run with uv (you must have uv installed)
 uv pip install --system .
-uv run research_server.py
+uv run main.py
 ```
 
 The server will run on `localhost:8001/sse`.
@@ -92,7 +92,7 @@ https://your-app-name.onrender.com/sse
 **To run locally in Docker:**
 
 ```bash
-docker run -p 8001:8001 <your-image-name> python research_server.py
+docker run -p 8001:8001 <your-image-name> python main.py
 ```
 
 ---
