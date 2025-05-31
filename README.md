@@ -111,7 +111,7 @@ In the web UI:
 
 You’ll now be able to call the tools and test them live using Claude or your own chatbot.
 
-![Uploading ui.png…]()
+<img width="1188" alt="ui" src="https://github.com/user-attachments/assets/4c9eceb4-ce4f-42f5-bc01-ed1004ff29cd" />
 
 ---
 
